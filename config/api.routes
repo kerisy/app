@@ -1,0 +1,2 @@
+# METHOD   PATH    ACTION_ID
+GET        /       index.index

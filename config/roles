@@ -1,0 +1,4 @@
+# name, permissions
+
+# superuser    user.add|user.del
+# guest    user.query

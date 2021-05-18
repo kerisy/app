@@ -1,0 +1,7 @@
+name "app"
+description "An application based on Kerisy Framework."
+copyright "Copyright (c) 2021 Kerisy.com"
+homepage "https://www.kerisy.com"
+license "Apache-2.0"
+targetType "executable"
+dependency "kerisy:basic" version="~>main"
